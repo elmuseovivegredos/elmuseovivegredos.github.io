@@ -1,0 +1,146 @@
+body {
+	background-color: black;
+	padding: 0;
+	margin: 0;
+}
+
+.main {
+	background-image: url(fotos/bkg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.index--title {
+	font-weight: 800;
+	font-size: 150px;
+	text-align: center;
+    top: 50%;
+    left: 50%;
+}
+
+h1, h2, h3, p {
+	font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3 {
+	color: white;
+}
+
+p {
+	color: black;
+}
+
+header {
+	background-color: black;
+}
+
+.page-name {
+	font-weight: 800;
+	text-align: center;
+	top: 50%;
+	left: 50%
+}
+
+nav {
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+	margin: 0px 40px 20px 20px;
+}
+a.navigation:link, a.navigation:visited {
+	color: black;
+	transition: 0.5s all ease;
+}
+
+a.navigation:active, a.navigation:hover {
+	color: #595959;
+	transition: 0.5s all ease;
+}
+
+.center {
+	text-align: center;
+}
+
+.home-image-left {
+	margin-right: 75px;
+	float: left;
+}
+
+.home-image-right {
+	margin-left: 50px;
+	float: right;
+}
+
+.float-center {
+	float: center;
+}
+
+.amarillo {
+	color: gold;
+}
+
+.object {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.white {
+	color: white
+}
+
+.about-bg {
+	background-image: url(fotos/antiguo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.description-title-box {
+	background-color: white;
+	top: 50%;
+    left: 50%;
+}
+
+.description-title-text {
+	text-align: center;
+	color: black;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.description-p {
+	background-color: white;
+	text-align: center;
+	padding: 2rem;
+
+}
+
+.about-p {
+	color: white;
+	margin:  2rem 30rem 2rem 30rem;
+	line-height: 1.5em;
+}
+
+.about-title {
+	text-align: center;
+}
+
+.img {
+	width: 75%;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+.contact-center {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
