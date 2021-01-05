@@ -123,12 +123,14 @@ a.navigation:active, a.navigation:hover {
 
 .about-p {
 	color: white;
-	margin:  2rem 30rem 2rem 30rem;
+	width: 50%;
+	text-align: center;
 	line-height: 1.5em;
 }
 
 .about-title {
 	text-align: center;
+	margin-top: 3em;
 }
 
 .img {
@@ -138,7 +140,6 @@ a.navigation:active, a.navigation:hover {
     margin-right: auto;
     margin-bottom: 1em;
 }
-
 
 .contact-center {
 	display: block;
