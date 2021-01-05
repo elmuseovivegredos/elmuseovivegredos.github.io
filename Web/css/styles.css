@@ -139,8 +139,16 @@ a.navigation:active, a.navigation:hover {
     margin-bottom: 1em;
 }
 
+
 .contact-center {
 	display: block;
 	margin-left: auto;
     margin-right: auto;
+}
+
+.about-center {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
 }
