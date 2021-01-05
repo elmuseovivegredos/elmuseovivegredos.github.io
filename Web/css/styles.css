@@ -153,3 +153,8 @@ a.navigation:active, a.navigation:hover {
     margin-right: auto;
     margin-bottom: 5px;
 }
+
+.about-h3 {
+	margin-top: 3em;
+	margin-bottom: 2em;
+}
